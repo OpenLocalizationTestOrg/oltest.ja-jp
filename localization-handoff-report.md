@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/b38144c12be6f4964ad044fec9acbe63410d9580/e2e/Ping.md) | HandedOffSuccess | [Details](#a5ae5da4fe6168f678238371e7254d930f12fe0c3)
 
 ## Item Details
+##### <a name='a5ae5da4fe6168f678238371e7254d930f12fe0c3'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/b38144c12be6f4964ad044fec9acbe63410d9580/e2e/Ping.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/deee6425cca76744cfb18422bcf836136ac1f667/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf)
+* Handoff Datetime: 2016-02-24 12:35:04
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
