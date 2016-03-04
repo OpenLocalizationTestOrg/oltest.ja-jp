@@ -6,29 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\generate-warning&error.md](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/e2e/generate-warning&error.md) | HandedOffSuccess | [Details](#6b46804023690e9d49f53b16f91c3ef20b14d51f1)
- [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/e2e/github.png) | HandedOffSuccess | [Details](#c842d8537f73ae67d662c3d33c5d93a0b069dada2)
- [e2e\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/e2e/TOC.yml) | HandedOffSuccess | [Details](#b12aecafbe61fff90f5d3f42398ed637c5ac779413)
- [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/TOC1.yml) | HandedOffFailed | [Details](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80618)
+ [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/e2e/github.png) | HandedOffSuccess | [Details](#c842d8537f73ae67d662c3d33c5d93a0b069dada5)
+ [e2e\sync.md](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/e2e/sync.md) | HandedOffSuccess | [Details](#68a478de3dddc7d1ced415e47c6ebc6e2f3c35f28)
+ [e2e\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/e2e/TOC.yml) | HandedOffSuccess | [Details](#b12aecafbe61fff90f5d3f42398ed637c5ac779417)
+ [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/TOC1.yml) | HandedOffFailed | [Details](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80622)
 
 ## Item Details
-##### <a name='6b46804023690e9d49f53b16f91c3ef20b14d51f1'></a> Source: [e2e\generate-warning&error.md](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/e2e/generate-warning&error.md)
+##### <a name='c842d8537f73ae67d662c3d33c5d93a0b069dada5'></a> Source: [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/e2e/github.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/1fb8b5260ab5e24811093af700f976cbead2870e/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/generate-warning&error.2eda3fc349b1c4e695c8f4aec97de83671e3c92e.ja-jp.xlf)
-* Handoff Datetime: 2016-03-03 07:29:43
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='c842d8537f73ae67d662c3d33c5d93a0b069dada2'></a> Source: [e2e\github.png](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/e2e/github.png)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [c842d8537f73ae67d662c3d33c5d93a0b069dada.png](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/1fb8b5260ab5e24811093af700f976cbead2870e/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/c842d8537f73ae67d662c3d33c5d93a0b069dada.png)
-* Handoff Datetime: 2016-03-03 07:29:43
+* Handoff File: [c842d8537f73ae67d662c3d33c5d93a0b069dada.png](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6a9bd0cbd7c878db596e6cc36b6f811950bb84a0/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/c842d8537f73ae67d662c3d33c5d93a0b069dada.png)
+* Handoff Datetime: 2016-03-04 03:05:53
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -37,11 +25,11 @@
 * Dependency From: e2e\testimage.md
 * [Back to Top](#report-top)
 
-##### <a name='b12aecafbe61fff90f5d3f42398ed637c5ac779413'></a> Source: [e2e\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/e2e/TOC.yml)
+##### <a name='68a478de3dddc7d1ced415e47c6ebc6e2f3c35f28'></a> Source: [e2e\sync.md](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/e2e/sync.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [b12aecafbe61fff90f5d3f42398ed637c5ac7794.yml](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/1fb8b5260ab5e24811093af700f976cbead2870e/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/b12aecafbe61fff90f5d3f42398ed637c5ac7794.yml)
-* Handoff Datetime: 2016-03-03 07:29:43
+* Handoff File: [sync.4881ec8b007605f9d1b860476d234d20da118439.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6a9bd0cbd7c878db596e6cc36b6f811950bb84a0/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/sync.4881ec8b007605f9d1b860476d234d20da118439.ja-jp.xlf)
+* Handoff Datetime: 2016-03-04 03:05:53
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -49,13 +37,25 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80618'></a> Source: [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/d124003f8f54db3181283cf12ae98cdef22b5e28/TOC1.yml)
+##### <a name='b12aecafbe61fff90f5d3f42398ed637c5ac779417'></a> Source: [e2e\TOC.yml](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/e2e/TOC.yml)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [b12aecafbe61fff90f5d3f42398ed637c5ac7794.yml](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/6a9bd0cbd7c878db596e6cc36b6f811950bb84a0/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/b12aecafbe61fff90f5d3f42398ed637c5ac7794.yml)
+* Handoff Datetime: 2016-03-04 03:05:53
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80622'></a> Source: [TOC1.yml](https://github.com/OpenLocalizationTest/oltest/blob/ff5732ac75db2f1b93fbed35cfb957ba90b89d53/TOC1.yml)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
-* Handoff Error: [handoff_transform_failed](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80618handoff_transform_failed)
+* Handoff Error: [handoff_transform_failed](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80622handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -64,7 +64,7 @@
 
 
 ## Error Details
-##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80618handoff_transform_failed'></a> Source: [TOC1.yml](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80618)
+##### <a name='c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80622handoff_transform_failed'></a> Source: [TOC1.yml](#c8c9fd77f97aa1c89dd17f9bcc82ee38de3dd80622)
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: toc.yml transformed failed.
 * Retriable: False
