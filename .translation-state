@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "58111ed6b69a715fa64d65f7c7566b1471e003d3",
+  "LastProcessedCommit": "cc9ef5ccde2684391171b393d91eac1b13d1d62b",
   "LastTranslatedCommit": null,
   "Items": {
     "4d648dc69d20ece48fe1364742cddbef46dcbe72": {
@@ -435,7 +435,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-11T05:42:42.4276141Z",
+      "HandoffDateTime": "2016-03-11T09:14:29.3433987Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -446,7 +446,7 @@
         "stack_trace": "   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 399",
         "extended_information": null
       },
-      "HandoffFailureTimes": 11,
+      "HandoffFailureTimes": 12,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -701,6 +701,34 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.ja-jp\\master\\testmove.0bcb04c679577b8e613df6ec7d93633d52e852b9.ja-jp.xlf",
       "HandoffFileCommit": "df0ac577eeccdc91bfa5141b7f8e0953db7be528",
       "HandoffDateTime": "2016-03-11T05:14:53.9757474Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "1cd230752f52bb9786821493df48c8a5a2a2f903": {
+      "FileHash": "1cd230752f52bb9786821493df48c8a5a2a2f903",
+      "SourceFileCommit": "cc9ef5ccde2684391171b393d91eac1b13d1d62b",
+      "SourceFilePath": "e2e\\test-scenario-1.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "e2e\\test-scenario-1.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.ja-jp\\master\\test-scenario-1.974d721459da0ff5eab675ae57b2ea10d235c32c.ja-jp.xlf",
+      "HandoffFileCommit": "709421dee2397c0c4570961b58a49941f4103d89",
+      "HandoffDateTime": "2016-03-11T09:14:29.3433987Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
