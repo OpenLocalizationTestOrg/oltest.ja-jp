@@ -7,11 +7,11 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 1
 [ Handoff Success Files ](#handoff-success-list)| 7
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 9
+[ Archive Success Files ](#archive-success-list)| 7
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
-[ Ignored Files ](#ignored-list)| 7
+[ Ignored Files ](#ignored-list)| 9
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
@@ -35,8 +35,6 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\osmond-test-1.md](https://github.com/OpenLocalizationTest/oltest/blob/1e085430b3bcdd905c49a6a43ef0562633b64a05/e2e/osmond-test-1.md) | ArchivedSuccess | [Details](#47609b0422629832c77370a4324229c7153ccdd76)
- [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/a9e9308f9d782d9b3a004c53e895c25c866f4484/e2e/Ping.md) | ArchivedSuccess | [Details](#727be8c1708119fe5e48ae3ff5a0e7e901103c7d7)
- [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/Pong.md) | ArchivedSuccess | [Details](#727be8c1708119fe5e48ae3ff5a0e7e901103c7d8)
  [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools.md](https://github.com/OpenLocalizationTest/oltest/blob/1e085430b3bcdd905c49a6a43ef0562633b64a05/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools.md) | ArchivedSuccess | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3912)
  [e2e\test1\Analyzing a Driver Using Code Analysis and Verification Tools1.md](https://github.com/OpenLocalizationTest/oltest/blob/1e085430b3bcdd905c49a6a43ef0562633b64a05/e2e/test1/Analyzing a Driver Using Code Analysis and Verification Tools1.md) | ArchivedSuccess | [Details](#fc59fb718925ced7c65137c8a22f4a82ece5abdc13)
  [e2e\test2\test2.md](https://github.com/OpenLocalizationTest/oltest/blob/1e085430b3bcdd905c49a6a43ef0562633b64a05/e2e/test2/test2.md) | ArchivedSuccess | [Details](#f0391904a77efece1359efeca01b5a9a89eeb8c815)
@@ -57,6 +55,8 @@
  [.openpublishing.build.ps1](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/.openpublishing.build.ps1) | Ignored | [Details](#482ad9a50c17e46128b7f0d17ec23da0e80e93831)
  [.openpublishing.publish.config.json](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/.openpublishing.publish.config.json) | Ignored | [Details](#66585024952d0abee99bfe38d960212071123a182)
  [e2e\docfx.json](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/docfx.json) | Ignored | [Details](#908619deff593db309f800caec6e9e5afd0344943)
+ [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/Ping.md) | Ignored | [Details](#494f2f4ee04c62e79e80fe6a8519b361486fead47)
+ [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/Pong.md) | Ignored | [Details](#494f2f4ee04c62e79e80fe6a8519b361486fead48)
  [README.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/README.md) | Ignored | [Details](#51d7f3af06d744b8e17e9f191ed52810e9a91cd120)
  [testfirstlevel.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/testfirstlevel.md) | Ignored | [Details](#b2d3f1368106dd65206c998968faeaf57935235521)
  [testfirstlevel2.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/testfirstlevel2.md) | Ignored | [Details](#4e1243bd22c66e76c2ba9eddc1f91394e57f9f8322)
@@ -147,26 +147,26 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='727be8c1708119fe5e48ae3ff5a0e7e901103c7d7'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/a9e9308f9d782d9b3a004c53e895c25c866f4484/e2e/Ping.md)
-* Status: ArchivedSuccess
+##### <a name='494f2f4ee04c62e79e80fe6a8519b361486fead47'></a> Source: [e2e\Ping.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/Ping.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/564221ac8acbfe80baa2b543b11086dcbdd1fca9/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf)
-* Handoff Datetime: 2016-02-25 08:55:58
-* Handoff Reason: Include
-* Archive File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/39a665613d5bbdbb7989aa9b59f0fac99d8c044c/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/archive/Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf)
-* Archive Datetime: 2016-02-26 15:58:54
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='727be8c1708119fe5e48ae3ff5a0e7e901103c7d8'></a> Source: [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/Pong.md)
-* Status: ArchivedSuccess
+##### <a name='494f2f4ee04c62e79e80fe6a8519b361486fead48'></a> Source: [e2e\Pong.md](https://github.com/OpenLocalizationTest/oltest/blob/570613fda57497de9c6a0ac5a1963d0d962373bc/e2e/Pong.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/564221ac8acbfe80baa2b543b11086dcbdd1fca9/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf)
-* Handoff Datetime: 2016-02-25 08:55:58
-* Handoff Reason: Include
-* Archive File: [Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff/blob/39a665613d5bbdbb7989aa9b59f0fac99d8c044c/ol-handoff/OpenLocalizationTestOrg/oltest.ja-jp/master/archive/Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf)
-* Archive Datetime: 2016-02-26 15:58:54
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
