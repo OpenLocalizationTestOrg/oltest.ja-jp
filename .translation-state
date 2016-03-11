@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "db15d3d032bbff69e80239df1883af52fcfa9aa7",
+  "LastProcessedCommit": "570613fda57497de9c6a0ac5a1963d0d962373bc",
   "LastTranslatedCommit": null,
   "Items": {
     "4d648dc69d20ece48fe1364742cddbef46dcbe72": {
@@ -401,7 +401,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "e2e\\Ping.md"
+        "e2e\\Ping.md",
+        "e2e\\Pong.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest.ja-jp\\master\\Ping.95b58797b320fac8f901ea501ac186551882a36c.ja-jp.xlf",
       "HandoffFileCommit": "564221ac8acbfe80baa2b543b11086dcbdd1fca9",
@@ -434,7 +435,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-03-08T09:27:01.8063431Z",
+      "HandoffDateTime": "2016-03-11T03:43:16.7788217Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -442,10 +443,10 @@
         "internal_error_retriable": false,
         "exception_message": "Could not find file 'C:\\gittest\\master\\OpenLocalizationTest\\oltest\\toc.yml'.",
         "exception_type": "System.IO.FileNotFoundException",
-        "stack_trace": "   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 375",
+        "stack_trace": "   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 399",
         "extended_information": null
       },
-      "HandoffFailureTimes": 6,
+      "HandoffFailureTimes": 7,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
