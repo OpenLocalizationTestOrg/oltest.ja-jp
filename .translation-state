@@ -8,6 +8,7 @@
       "SourceFilePath": "e2e\\generate-warning&error.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\generate-warning&error.md"
       ],
@@ -36,6 +37,7 @@
       "SourceFilePath": "e2e\\osmond-test-1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\osmond-test-1.md"
       ],
@@ -64,6 +66,7 @@
       "SourceFilePath": "e2e\\Ping.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\Ping.md"
       ],
@@ -92,6 +95,7 @@
       "SourceFilePath": "e2e\\test-scenario-1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test-scenario-1.md"
       ],
@@ -120,6 +124,7 @@
       "SourceFilePath": "e2e\\test1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test1.md"
       ],
@@ -148,6 +153,7 @@
       "SourceFilePath": "e2e\\test1\\Analyzing a Driver Using Code Analysis and Verification Tools.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test1\\Analyzing a Driver Using Code Analysis and Verification Tools.md"
       ],
@@ -176,6 +182,7 @@
       "SourceFilePath": "e2e\\test1\\Analyzing a Driver Using Code Analysis and Verification Tools1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test1\\Analyzing a Driver Using Code Analysis and Verification Tools1.md"
       ],
@@ -204,6 +211,7 @@
       "SourceFilePath": "e2e\\test1\\keep-the-ui-thread-responsive.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test1\\keep-the-ui-thread-responsive.md"
       ],
@@ -232,6 +240,7 @@
       "SourceFilePath": "e2e\\test2\\test2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test2\\test2.md"
       ],
@@ -260,6 +269,7 @@
       "SourceFilePath": "e2e\\testworkerrole.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\testworkerrole.md"
       ],
@@ -288,6 +298,7 @@
       "SourceFilePath": "e2e\\workerroletest.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\workerroletest.md"
       ],
@@ -316,6 +327,7 @@
       "SourceFilePath": "README.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "README.md"
       ],
@@ -344,6 +356,7 @@
       "SourceFilePath": "testfirstlevel.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "testfirstlevel.md"
       ],
@@ -372,6 +385,7 @@
       "SourceFilePath": "e2e\\Ping.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\Ping.md"
       ],
@@ -400,6 +414,7 @@
       "SourceFilePath": "e2e\\Ping.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\Ping.md",
         "e2e\\Pong.md"
@@ -429,6 +444,7 @@
       "SourceFilePath": "toc.yml",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "toc.yml",
         "TOC1.yml"
@@ -466,6 +482,7 @@
       "SourceFilePath": "e2e\\TOC.yml",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\TOC.yml"
       ],
@@ -494,6 +511,7 @@
       "SourceFilePath": "e2e\\testimage.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\testimage.md"
       ],
@@ -524,6 +542,7 @@
       "DependencyFrom": [
         "e2e\\testimage.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\github.png"
       ],
@@ -552,6 +571,7 @@
       "SourceFilePath": "e2e\\generate-warning&error.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\generate-warning&error.md",
         "e2e\\generate-warning and error.md"
@@ -581,6 +601,7 @@
       "SourceFilePath": "e2e\\sync.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\sync.md"
       ],
@@ -609,6 +630,7 @@
       "SourceFilePath": "e2e\\test1\\keep-the-ui-thread-responsive.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test1\\keep-the-ui-thread-responsive.md"
       ],
@@ -637,6 +659,7 @@
       "SourceFilePath": "e2e\\test1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test1.md"
       ],
@@ -665,6 +688,7 @@
       "SourceFilePath": "e2e\\Ping.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\Ping.md",
         "e2e\\Pong.md"
@@ -694,6 +718,7 @@
       "SourceFilePath": "e2e\\testmove.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\testmove.md",
         "e2e\\testmove\\testmove.md"
@@ -723,6 +748,7 @@
       "SourceFilePath": "e2e\\test-scenario-1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "e2e\\test-scenario-1.md"
       ],
